@@ -11,7 +11,7 @@
     <groupId>com.xxk</groupId>
     <artifactId>docker</artifactId>
     <version>1.0</version>
-    <name>SpringBoot</name>
+    <name>docker</name>
     <description>>Demo project for Spring Boot</description>
 
     <properties>
